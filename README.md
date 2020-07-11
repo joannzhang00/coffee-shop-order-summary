@@ -1,4 +1,4 @@
-# coffee-shop-order-summary: using python list functions and methods
+# coffee-shop-order-summary
 To see how many orders came within each hour of the work day
 The data, collected from online and in-person orders, includes a set of uniform records, each storing the following fields
 • Date and time of the order. The date ranges over all dates of August, 2019. The time range of orders corresponds to the working hours of the business, which is 6 am until midnight.
